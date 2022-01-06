@@ -1,1 +1,3 @@
 https://github.com/decentraland-scenes/npc-dialog-example-scene
+
+https://github.com/decentraland/decentraland-npc-utils
